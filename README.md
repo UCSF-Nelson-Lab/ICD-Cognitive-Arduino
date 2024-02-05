@@ -1,1 +1,1 @@
-# ICD-Cognitive-Arduino
+This repository contains Arduino code designed to control operant conditioning boxes, which are used in behavioral experiments. The code includes both behavioral shaping phases and the Delay Discounting (DD) phase. 
